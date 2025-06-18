@@ -1,0 +1,46 @@
+[
+  {
+    "KeyName": "CommandUp",
+    "KeyCode": 273
+  },
+  {
+    "KeyName": "CommandDown",
+    "KeyCode": 274
+  },
+  {
+    "KeyName": "CommandLeft",
+    "KeyCode": 276
+  },
+  {
+    "KeyName": "CommandRight",
+    "KeyCode": 275
+  },
+  {
+    "KeyName": "NextSkill",
+    "KeyCode": 101
+  },
+  {
+    "KeyName": "PrevSkill",
+    "KeyCode": 113
+  },
+  {
+    "KeyName": "StartSkill",
+    "KeyCode": 306
+  },
+  {
+    "KeyName": "UseSkill",
+    "KeyCode": 13
+  },
+  {
+    "KeyName": "TurnCameraRight",
+    "KeyCode": 122
+  },
+  {
+    "KeyName": "TurnCameraLeft",
+    "KeyCode": 99
+  },
+  {
+    "KeyName": "ResetCamera",
+    "KeyCode": 120
+  }
+]
