@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FireRay_01
+  m_Shader: {fileID: 4800000, guid: 530cf0c472a7fac42b77a8baaf0d4813, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_A39BF4C5:
+        m_Texture: {fileID: 2800000, guid: a766f151f0729c149a62e4bbb3eb8c5b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_BD680E6D:
+        m_Texture: {fileID: 2800000, guid: a766f151f0729c149a62e4bbb3eb8c5b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex_01:
+        m_Texture: {fileID: 2800000, guid: a766f151f0729c149a62e4bbb3eb8c5b, type: 3}
+        m_Scale: {x: 2.5, y: 0.4}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex_02:
+        m_Texture: {fileID: 2800000, guid: a766f151f0729c149a62e4bbb3eb8c5b, type: 3}
+        m_Scale: {x: 2.5, y: 0.4}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2685E14E: 2
+    - Vector1_29D9E95A: 0.503
+    - Vector1_4A433147: 0.294
+    - Vector1_6EE8E1A0: 0.1
+    - Vector1_A70E2CC1: 1
+    - Vector1_CA71BCAB: 1
+    - _Pow_01: 1
+    - _Pow_02: 1
+    - _Power_01: 1
+    - _Power_02: 1
+    - _StepThreshold: 0.51
+    - _Threshold: 0.503
+    m_Colors:
+    - Color_B0A2637: {r: 4, g: 4, b: 4, a: 1}
+    - Vector2_2232DF21: {r: 0, g: 5, b: 0, a: 0}
+    - Vector2_271D1E89: {r: 0, g: 5, b: 0, a: 0}
+    - Vector2_82B9DA9F: {r: 2.5, g: 0.4, b: 0, a: 0}
+    - Vector2_D85B3273: {r: 2.5, g: 0.4, b: 0, a: 0}
+    - _ColorTint: {r: 4, g: 4, b: 4, a: 1}
+    - _PanningSpeed_01: {r: 0, g: 5, b: 0, a: 0}
+    - _PanningSpeed_02: {r: 0, g: 5, b: 0, a: 0}
+    - _Panning_01: {r: 0, g: 2, b: 0, a: 0}
+    - _Panning_02: {r: 0, g: 6, b: 0, a: 0}
+    - _Tiling_01: {r: 2.5, g: 0.4, b: 0, a: 0}
+    - _Tiling_02: {r: 2.5, g: 0.4, b: 0, a: 0}
+  m_BuildTextureStacks: []

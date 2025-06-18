@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Aoe_02_Grid
+  m_Shader: {fileID: 4800000, guid: 301a600c6407f34478cbe5c07495de11, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_1D278F3C:
+        m_Texture: {fileID: 2800000, guid: 809330d21ceeafb4e93e39637a94e0ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_D0FAA6D3:
+        m_Texture: {fileID: 2800000, guid: 13248afc5adf27b40ab62eaa79d352f7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 13248afc5adf27b40ab62eaa79d352f7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 2800000, guid: 809330d21ceeafb4e93e39637a94e0ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_464BF821_Texture_1:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_1B8A82F4: 1
+    - Vector1_4BFBDCA: -29.7
+    - Vector1_9162A0CC: 0.95
+    - Vector1_A0169405: 1
+    - Vector1_B186131F: 0.557
+    - _Intensity: 1
+    - _MaskPower: 0.5
+    - _PanningSpeed: 1.3
+    - _TexPower: 1
+    m_Colors:
+    - Color_7DF777D9: {r: 23.968628, g: 23.968628, b: 23.968628, a: 0}
+    - Color_F67B1800: {r: 4, g: 4, b: 4, a: 1}
+    - Vector2_A0FB475B: {r: 0, g: 0.4, b: 0, a: 0}
+    - Vector2_EC3C6910: {r: 1, g: 1, b: 0, a: 0}
+    - _ColorTint: {r: 4, g: 4, b: 4, a: 1}
+    - _TexTiling: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []

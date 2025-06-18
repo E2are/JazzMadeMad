@@ -1,0 +1,14 @@
+Sounds/BGM		musicjazzystyle_bat01.wav
+Sounds/BGM		musicjazzystyle_bat02.wav
+Sounds/BGM		musicjazzystyle_bat03.wav
+Sounds/BGM		musicjazzystyle_bat04.wav
+Sounds/BGM		musicjazzystyle_bat05.wav
+Sounds/BGM		musicjazzystyle_bat06.wav
+Sounds/BGM		musicjazzystyle_bat07.wav
+Sounds/BGM		musicjazzystyle_bat08.wav
+Sounds/BGM		musicjazzystyle_bat09.wav
+Sounds/BGM		musicjazzystyle_bat10.wav
+Sounds/BGM		musicjazzystyle_bat11.wav
+Sounds/BGM		musicjazzystyle_bat12.wav
+Sounds/BGM		musicjazzystyle_bat13.wav
+Sounds/BGM		musicjazzystyle_bat14.wav
