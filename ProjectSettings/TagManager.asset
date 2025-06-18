@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Bullet
+  - Ground
+  - FxTemporaire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Bullet
+  - Enemy
+  - CutSceneTrigger
+  - Wall
+  - Stencil
+  - Box
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4017490295
+    locked: 0
+  - name: Boss
+    uniqueID: 130915237
+    locked: 0
+  - name: Objects
+    uniqueID: 1941089831
+    locked: 0
+  - name: Buildings
+    uniqueID: 2639108429
+    locked: 0

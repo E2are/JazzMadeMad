@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/00Scenes/Title.unity
+    guid: ddfe06ede378c3f459c35aae42674cfd
+  - enabled: 1
+    path: Assets/00Scenes/SquareScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/00Scenes/DrumBoss.unity
+    guid: 74a5669281669644982348cf98de8be6
+  - enabled: 1
+    path: Assets/00Scenes/ViolinBoss.unity
+    guid: c27a887e66e85d04fa7a99eed1dacae9
+  - enabled: 1
+    path: Assets/00Scenes/BrassBoss.unity
+    guid: 80a108559aaf8e84ebf74249aa0f7f8b
+  - enabled: 1
+    path: Assets/00Scenes/WoodwindBoss.unity
+    guid: 951d834078ef6b846ac44d087ec21271
+  - enabled: 1
+    path: Assets/00Scenes/PianoBoss.unity
+    guid: bfe83f3746ddd15429d80e6d626bb1f2
+  - enabled: 1
+    path: Assets/00Scenes/Orchestra.unity
+    guid: ac869b120e3c26a4fbe7d5786c9fbe10
+  - enabled: 1
+    path: Assets/00Scenes/LoadingScene.unity
+    guid: 914869a1f6e0e4843b42eb4de9d155b1
+  m_configObjects: {}
