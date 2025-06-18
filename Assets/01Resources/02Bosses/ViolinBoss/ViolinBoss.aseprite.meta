@@ -1,0 +1,670 @@
+fileFormatVersion: 2
+guid: f4642502c34f73f4595731ec1fccb427
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Attack
+    second: {fileID: 7400000, guid: 7a27ead4edc63c349906b481692527e9, type: 2}
+  - first:
+      type: UnityEngine:AnimationClip
+      assembly: UnityEngine.AnimationModule
+      name: Walk
+    second: {fileID: 7400000, guid: 837297e520df7064f818238fcdb6e5c7, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 55
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 0
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638857668049663565
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: ViolinBoss_Frame_9
+    originalName: 
+    pivot: {x: 0.3, y: 0.49999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 684
+      width: 134
+      height: 160
+    spriteID: 35ce3f9d20c031a419472319a4dba4f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 684}
+  - name: ViolinBoss_Frame_10
+    originalName: 
+    pivot: {x: 0.3, y: 0.49999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 852
+      width: 134
+      height: 160
+    spriteID: 7c2db1bc3f2715040b780818cda784a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 852}
+  - name: ViolinBoss_Frame_11
+    originalName: 
+    pivot: {x: 0.3, y: 0.49999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 4
+      width: 134
+      height: 160
+    spriteID: ca0adb99125b64d45ac0c8dbd0e2cadb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 4}
+  - name: ViolinBoss_Frame_12
+    originalName: 
+    pivot: {x: 0.3, y: 0.49999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 172
+      width: 134
+      height: 160
+    spriteID: c72a3d3b1887be2489ccb138ab9175f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 172}
+  - name: ViolinBoss_Frame_13
+    originalName: 
+    pivot: {x: 0.3, y: 0.49999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 340
+      width: 134
+      height: 160
+    spriteID: 218d87aab5caee643b2412a79766b55e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 340}
+  - name: ViolinBoss_Frame_14
+    originalName: 
+    pivot: {x: 0.3, y: 0.49999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 508
+      width: 134
+      height: 160
+    spriteID: ffc6f4eef86b9ee4d8785688749de784
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 508}
+  - name: ViolinBoss_Frame_15
+    originalName: 
+    pivot: {x: 0.3, y: 0.49999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 676
+      width: 134
+      height: 160
+    spriteID: b9b72a388ad760940875a69768c15bd2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 676}
+  - name: ViolinBoss_Frame_16
+    originalName: 
+    pivot: {x: 0.3, y: 0.49999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 146
+      y: 844
+      width: 134
+      height: 160
+    spriteID: 734c983a5b4810043b1cc40516480878
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 146, y: 844}
+  - name: ViolinBoss_Frame_0
+    originalName: 
+    pivot: {x: 0.3, y: 0.49999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 4
+      width: 134
+      height: 160
+    spriteID: ccf85b96ae8c5924499412b988339e94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 4}
+  - name: ViolinBoss_Frame_1
+    originalName: 
+    pivot: {x: 0.3, y: 0.49374998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 172
+      width: 134
+      height: 160
+    spriteID: 1c92628c657b189428217d3310373e8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 172}
+  - name: ViolinBoss_Frame_2
+    originalName: 
+    pivot: {x: 0.3, y: 0.49382713}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 175
+      width: 134
+      height: 162
+    spriteID: 34769ae762a6fdc45b6e497276db554f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 175}
+  - name: ViolinBoss_Frame_3
+    originalName: 
+    pivot: {x: 0.3, y: 0.49079752}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 134
+      height: 163
+    spriteID: d6571f25935efe54bbdcb4f013bafdbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: ViolinBoss_Frame_4
+    originalName: 
+    pivot: {x: 0.3, y: 0.49382713}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 345
+      width: 134
+      height: 162
+    spriteID: 7e130f9f5b8253048a3b046a08d46108
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 345}
+  - name: ViolinBoss_Frame_5
+    originalName: 
+    pivot: {x: 0.3, y: 0.49374998}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 340
+      width: 134
+      height: 160
+    spriteID: a6b36013849c9b5449251491026d3241
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 340}
+  - name: ViolinBoss_Frame_6
+    originalName: 
+    pivot: {x: 0.3, y: 0.49056602}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 508
+      width: 134
+      height: 159
+    spriteID: 4619e59ea899b14479dca54ae6230acb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 508}
+  - name: ViolinBoss_Frame_7
+    originalName: 
+    pivot: {x: 0.3, y: 0.49068323}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 515
+      width: 134
+      height: 161
+    spriteID: 71dcd29fe70562a45a9132fb95c77d68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 515}
+  - name: ViolinBoss_Frame_8
+    originalName: 
+    pivot: {x: 0.3, y: 0.49056602}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 675
+      width: 134
+      height: 159
+    spriteID: 61706e8f1b08dfb448373d052ec8dfc2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 288, y: 675}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1990952122
+    name: ViolinBoss
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: ViolinBoss_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 58
+        y: 70
+        width: 134
+        height: 160
+      spriteId: 35ce3f9d20c031a419472319a4dba4f6
+    - name: ViolinBoss_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 58
+        y: 70
+        width: 134
+        height: 160
+      spriteId: 7c2db1bc3f2715040b780818cda784a7
+    - name: ViolinBoss_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 58
+        y: 70
+        width: 134
+        height: 160
+      spriteId: ca0adb99125b64d45ac0c8dbd0e2cadb
+    - name: ViolinBoss_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 58
+        y: 70
+        width: 134
+        height: 160
+      spriteId: c72a3d3b1887be2489ccb138ab9175f1
+    - name: ViolinBoss_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 58
+        y: 70
+        width: 134
+        height: 160
+      spriteId: 218d87aab5caee643b2412a79766b55e
+    - name: ViolinBoss_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 58
+        y: 70
+        width: 134
+        height: 160
+      spriteId: ffc6f4eef86b9ee4d8785688749de784
+    - name: ViolinBoss_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 58
+        y: 70
+        width: 134
+        height: 160
+      spriteId: b9b72a388ad760940875a69768c15bd2
+    - name: ViolinBoss_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 58
+        y: 70
+        width: 134
+        height: 160
+      spriteId: 734c983a5b4810043b1cc40516480878
+    - name: ViolinBoss_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 58
+        y: 70
+        width: 134
+        height: 160
+      spriteId: ccf85b96ae8c5924499412b988339e94
+    - name: ViolinBoss_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 58
+        y: 71
+        width: 134
+        height: 160
+      spriteId: 1c92628c657b189428217d3310373e8d
+    - name: ViolinBoss_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 58
+        y: 70
+        width: 134
+        height: 162
+      spriteId: 34769ae762a6fdc45b6e497276db554f
+    - name: ViolinBoss_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 58
+        y: 70
+        width: 134
+        height: 163
+      spriteId: d6571f25935efe54bbdcb4f013bafdbf
+    - name: ViolinBoss_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 58
+        y: 70
+        width: 134
+        height: 162
+      spriteId: 7e130f9f5b8253048a3b046a08d46108
+    - name: ViolinBoss_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 58
+        y: 71
+        width: 134
+        height: 160
+      spriteId: a6b36013849c9b5449251491026d3241
+    - name: ViolinBoss_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 58
+        y: 72
+        width: 134
+        height: 159
+      spriteId: 4619e59ea899b14479dca54ae6230acb
+    - name: ViolinBoss_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 58
+        y: 71
+        width: 134
+        height: 161
+      spriteId: 71dcd29fe70562a45a9132fb95c77d68
+    - name: ViolinBoss_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 58
+        y: 72
+        width: 134
+        height: 159
+      spriteId: 61706e8f1b08dfb448373d052ec8dfc2
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 300, y: 300}

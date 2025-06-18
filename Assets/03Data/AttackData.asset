@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17dd02f7147c34d42b3bbf052b2c66b1, type: 3}
+  m_Name: AttackData
+  m_EditorClassIdentifier: 
+  HalfTImePrefab: {fileID: 5185948327281915202, guid: d7de350fcef3ba24f960f4660068f752,
+    type: 3}
+  LaserPrefab: {fileID: 5778544362737080809, guid: b27b4f375657e774c97de36bbab7a952,
+    type: 3}
+  Skill1Sprite: {fileID: 1463500243, guid: 28e23b682eb65b94082393d8c368dbe5, type: 3}
+  Attack1Commands: 010000000200000000000000
+  Skill2Sprite: {fileID: -1200676368, guid: 28e23b682eb65b94082393d8c368dbe5, type: 3}
+  Attack2Commands: 01000000030000000200000000000000
+  Skill3Sprite: {fileID: 748937854, guid: 28e23b682eb65b94082393d8c368dbe5, type: 3}
+  Attack3Commands: 010000000300000003000000000000000200000001000000
+  Skill4Sprite: {fileID: 21300000, guid: 98500a91d4bc4bc4c905aec862631f98, type: 3}
+  Attack4Commands: 00000000010000000000000001000000
+  Skill5Sprite: {fileID: 0}
+  Attack5Commands: 000000000300000001000000
+  Skill6Sprite: {fileID: 0}
+  Attack6Commands: 0000000000000000
+  PageSprites:
+  - {fileID: 1463500243, guid: 28e23b682eb65b94082393d8c368dbe5, type: 3}
+  - {fileID: -1200676368, guid: 28e23b682eb65b94082393d8c368dbe5, type: 3}
+  - {fileID: 748937854, guid: 28e23b682eb65b94082393d8c368dbe5, type: 3}
+  - {fileID: 21300000, guid: 98500a91d4bc4bc4c905aec862631f98, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
